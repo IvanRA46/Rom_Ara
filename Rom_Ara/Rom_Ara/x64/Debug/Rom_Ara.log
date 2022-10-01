@@ -1,0 +1,5 @@
+﻿  RomAra.cpp
+C:\Users\ivanc\source\repos\Rom_Ara\Rom_Ara\RomAra.cpp(12,19): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Rom_Ara.cpp
+  Generando código...
+  Rom_Ara.vcxproj -> C:\Users\ivanc\source\repos\Rom_Ara\x64\Debug\Rom_Ara.exe
